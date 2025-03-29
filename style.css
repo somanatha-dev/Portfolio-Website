@@ -10,7 +10,7 @@ body {
 
 /* Page-1 Background */
 .page-1 {
-    background-image: url('background.jpg');
+    background-image: url('backgrounds/background.jpg');
     height: 100vh;
     background-size: cover;
     background-position: center;
